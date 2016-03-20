@@ -6,7 +6,9 @@ This snippet uses divmod to convert from decimal to any arbitrary base.
 Where `[A]` is the base to convert to.
 
 # Demonstration
+To convert `5` to binary (base 2):
 ```
+5{[2÷$][]#␃}§
 5             push 5 to stack
  {            set current stack to 5
   [   ][]#    while loop
