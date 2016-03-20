@@ -13,8 +13,8 @@ XOR differs from OR only in that `1 XOR 1 = 0` (unlike OR, where `1 OR 1 = 1`). 
 3 7¤~&|
 ```
 <ol>
-<li>The numbers 3 and 7 are pushed to the stack: `3 7`</li>
-<li>The number 3 is duplicated to the top of the stack: `3 7 3`</li>
+<li>The numbers 3 and 7 are pushed to the stack: <pre>3 7</pre></li>
+<li>The number 3 is duplicated to the top of the stack: <pre>3 7 3</pre></li>
 <li>Bitwise NOT:
 <pre>
 00000000000000000000000000000011    Top of stack as a 32-bit integer
