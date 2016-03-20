@@ -21,7 +21,6 @@ XOR differs from OR only in that `1 XOR 1 = 0` (unlike OR, where `1 OR 1 = 1`). 
 11111111111111111111111111111100    Bitwise NOT of top of stack as a 32-bit integer
 Stack: 3 7 -4
 ```
-The stack 
 4. Bitwise AND:
 ```
 11111111111111111111111111111100    First number as a 32-bit integer
